@@ -1,7 +1,9 @@
-# TemplateCppProject
-This is just a simple template I use to generate a classic C++ project with xmake
+# VulkanTutorial
+A project I use to learn graphics with Vulkan
 
-# Using this template
-Just click on the button `Use this template` and `Create a new repository` then enter all the informations.
+## Build the project
+clone the project with the command `git clone https://github.com/Pixfri/LeanOpenGL.git` then `cd LeanOpenGL`
+Install [xmake](https://xmake.io/) and type in your terminal `xmake -b LeanOpenGL`
 
-Make sure to replace everything called `ProjectName` in the xmake.lua file by your project name and also rename the `ProjectName` folder.
+## Run the project
+In your terminal, run the command `xmake run LeanOpenGL`
