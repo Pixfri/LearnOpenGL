@@ -1,5 +1,5 @@
-# VulkanTutorial
-A project I use to learn graphics with Vulkan
+# LearnOpenGL
+A project I use to learn graphic rendering with opengl
 
 ## Build the project
 clone the project with the command `git clone https://github.com/Pixfri/LeanOpenGL.git` then `cd LeanOpenGL`
