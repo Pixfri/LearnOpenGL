@@ -1,5 +1,6 @@
 # LearnOpenGL
-A project I use to learn graphic rendering with opengl
+A project I use to learn graphic rendering with the OpenGL specification.  
+I'm learning OpenGL with [this website](https://learnopengl.com/)
 
 ## Build the project
 clone the project with the command `git clone https://github.com/Pixfri/LeanOpenGL.git` then `cd LeanOpenGL`

@@ -8,3 +8,4 @@ build/
 cmake-build-debug/
 
 CmakeLists.txt
+renderdoc.cap
