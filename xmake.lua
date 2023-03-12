@@ -16,6 +16,7 @@ end
 add_requires("glfw 3.3.8")
 add_requires("glm 0.9.9+8")
 add_requires("glad v0.1.36")
+add_requires("assimp v5.2.5")
 
 local outputdir = "$(mode)-$(os)-$(arch)"
 
@@ -38,3 +39,4 @@ target("LearnOpenGL")
     add_packages("glfw")
     add_packages("glm")
     add_packages("glad")
+    add_packages("assimp")
